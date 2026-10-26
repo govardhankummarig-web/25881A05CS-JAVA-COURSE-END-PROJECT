@@ -1,0 +1,9 @@
+*.class
+*.log
+*.aux
+*.toc
+*.out
+*.synctex.gz
+.idea/
+.vscode/
+.env
